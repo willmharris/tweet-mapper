@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tweet-mapper/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tweet-mapper/static/js/main.921f28fb.chunk.js",
+    "main.js.map": "/tweet-mapper/static/js/main.921f28fb.chunk.js.map",
+    "runtime-main.js": "/tweet-mapper/static/js/runtime-main.ff6d8d05.js",
+    "runtime-main.js.map": "/tweet-mapper/static/js/runtime-main.ff6d8d05.js.map",
+    "static/js/2.8cea0b6c.chunk.js": "/tweet-mapper/static/js/2.8cea0b6c.chunk.js",
+    "static/js/2.8cea0b6c.chunk.js.map": "/tweet-mapper/static/js/2.8cea0b6c.chunk.js.map",
+    "index.html": "/tweet-mapper/index.html",
+    "precache-manifest.7ec7f67f5df3f5f96354a480140ee791.js": "/tweet-mapper/precache-manifest.7ec7f67f5df3f5f96354a480140ee791.js",
+    "service-worker.js": "/tweet-mapper/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/tweet-mapper/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8cea0b6c.chunk.js.LICENSE.txt": "/tweet-mapper/static/js/2.8cea0b6c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tweet-mapper/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff6d8d05.js",
+    "static/js/2.8cea0b6c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.921f28fb.chunk.js"
+  ]
+}
